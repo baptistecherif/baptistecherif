@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, AWS**
 
 💬 Ask me about **Cisco tech, Python... or anything [here](https://github.com/baptistecherif/baptistecherif/issues)**
 
@@ -27,7 +27,7 @@
   <a href="https://fr.linkedin.com/in/baptiste-cherif-8b0a36297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://fr.linkedin.com/in/baptiste-cherif-8b0a36297" target="_blank">
+  <a href="https://baptistecherif.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
