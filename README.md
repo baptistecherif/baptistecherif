@@ -57,7 +57,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=baptistecherif&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
   <img width=390 src="https://streak-stats.demolab.com/?user=baptistecherif&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=baptistecherif&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -71,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/baptistecherif' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy me a tea at ko-fi.com' /></a>
+<a href='https://ko-fi.com/baptistecherif' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://taikojourney.com/wp-content/uploads/2023/12/Buy-Me-a-Tea.png' border='0' alt='Buy me a tea at ko-fi.com' /></a>
 </div>
 
 <br/>
