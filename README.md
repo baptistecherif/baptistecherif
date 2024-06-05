@@ -1,6 +1,3 @@
-# baptistecherif
-Just my presentation
-
 # Bonjour, je suis [Votre Nom] 👋
 
 ![Profile views](https://gpvc.arturio.dev/votre_nom_utilisateur)
