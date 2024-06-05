@@ -12,7 +12,7 @@
  
  🔭 Currently working on **an online marketplace project**
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 Constantly learning new technologies, currently learning **Docker, AWS**
 
 💬 Ask me about **Cisco tech, Python... or anything [here](https://github.com/baptistecherif/baptistecherif/issues)**
 
