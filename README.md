@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/baptistecherif' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://i.imgur.com/JKfKpZ2.png' border='0' alt='Buy me a tea at ko-fi.com' /></a>
+<a href='https://ko-fi.com/baptistecherif' target='_blank'><img height='128' style='border:64px;height:128px;' src='https://i.imgur.com/JKfKpZ2.png' border='0' alt='Buy me a tea at ko-fi.com' /></a>
 </div>
 
 <br/>
