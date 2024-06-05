@@ -16,7 +16,7 @@
 
 💬 Ask me about **Cisco tech, Python... or anything [here](https://github.com/baptistecherif/baptistecherif/issues)**
 
-⚡ Fun fact **"I'M THE CREEPER: CATCH ME IF YOU CAN."**
+⚡ Fun fact **"I'M THE CREEPER, CATCH ME IF YOU CAN."**
 
  </div>
  
