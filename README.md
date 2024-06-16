@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go,python,git,github,vscode,json,yaml,aws,cisco,azure,gcp" />
-    <img src="https://skillicons.dev/icons?i=kubernetes,ansible,bash,powershell,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,bash,powershell,mongodb,mysql" /><br>
 </div>
 
 <br/>
